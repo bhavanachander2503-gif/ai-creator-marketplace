@@ -1,0 +1,19 @@
+{
+  "name": "creova-ai-marketplace",
+  "version": "1.0.0",
+  "description": "CREOVA — AI Creator Intelligence Marketplace (HacXLerate 2026 Challenge 02)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ai-creators",
+    "marketplace",
+    "generative-ai",
+    "prompt-vault",
+    "creova"
+  ],
+  "author": "CREOVA Team",
+  "license": "MIT"
+}
